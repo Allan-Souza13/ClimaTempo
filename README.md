@@ -3,28 +3,28 @@
 🌤️ ClimaTempo
 Uma aplicação que consulta a previsão do tempo usando a API do OpenWeather. Desenvolvida com HTML, CSS e JavaScript.
 
- <summary>🚀 Funcionalidades</summary>
+ 🚀 Funcionalidades:
 🔍 Consulta de previsão do tempo por cidade.
 🌡️ Exibição de temperatura, umidade e condições climáticas.
 📅 Previsão para os próximos dias.
 
 
- <summary>⚙️ Tecnologias Utilizadas</summary>
-HTML5 para a estrutura da página.
-CSS3 para o estilo e responsividade.
-JavaScript para consumir a API e manipular o DOM.
-OpenWeather API para obter dados climáticos em tempo real.
+⚙️ Tecnologias Utilizadas:
+<summary>HTML5 para a estrutura da página.</summary>
+<summary>CSS3 para o estilo e responsividade.</summary>
+<summary>JavaScript para consumir a API e manipular o DOM.</summary>
+<summary>OpenWeather API para obter dados climáticos em tempo real.</summary>
 
 
- <summary>🔧 Como Rodar o Projeto</summary>
+ 🔧 Como Rodar o Projeto:
 Clone o repositório: 
-git clone https://github.com/Allan-Souza13/ClimaTempo.git
+<summary> git clone https://github.com/Allan-Souza13/ClimaTempo.git</summary>
   
 Abra o arquivo index.html no navegador.
 
 
-  <summary>🌐 API Utilizada</summary>
-OpenWeather
+🌐 API Utilizada
+<summary>OpenWeather</summary>
 
 
 
