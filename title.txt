@@ -1,0 +1,6 @@
+document.querySelector('#temp_img').setAttribute('src', `https://openweathermap.org/img/wn/${json.icon}@2x.png`);
+
+
+
+document.querySelector('#temp_img').setAttribute(src, `https://
+openweathermap.org/img/wn/${json.icon}@2x.png`);
